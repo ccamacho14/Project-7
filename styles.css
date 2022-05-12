@@ -1,0 +1,25 @@
+button {
+    background-color: #ffccf2;
+    color:#ff33cc;
+    width:100px;
+    height:20px;
+}
+h1{
+  color:#ffccf2;  
+}
+body{
+ background-color:#b30047;   
+    color:#ffccf2;
+    
+}
+.page2{
+ display:none;   
+}
+input{
+ background-color:white; 
+    border:3px #460C42 solid;
+    color:#b30047;
+}
+.page3{
+ display:none;   
+}
